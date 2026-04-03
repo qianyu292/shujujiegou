@@ -33,13 +33,22 @@
     <ClCompile Include="Dijkstra.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="prim.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="01背包和完全背包.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
     <ClCompile Include="nsumtarget.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="埃拉托色尼素数筛法.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stack2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Myarraylist.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="prim.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
   </ItemGroup>

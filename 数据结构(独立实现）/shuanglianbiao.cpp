@@ -173,10 +173,10 @@ public:
 		std::cout << "nullptr" << std::endl;
 		std::cout << std::endl;
 	}
-	void swap(ListNode* a, ListNode* b)
+	void swap(Node* a, Node* b)
 	{
-		ListNode* temp1 = a->prev;
-		ListNode* temp2 = b->next;
+		Node* temp1 = a->prev;
+		Node* temp2 = b->next;
 
 		temp1->next = b;
 		b->prev = a;

@@ -1,6 +1,7 @@
 #include<iostream>
 #include<stdexcept>
 #include<string>
+#include<vector>
 using namespace std;
 template<typename E>
 class Danlianbiao
@@ -159,13 +160,14 @@ public:
 	{
 		return size;
 	}
-	vector<int> display()
+	vector<E> display()
 	{
-		vector<int>res;
-		if (head != nullptr)
+		vector<E>res;
+		ListNode* current = head->next;
+		while (current != nullptr)
 		{
-			res.push_back(head->val);
-			head = head->next;
+			res.push_back(current->val);
+			current = current->next;
 		}
 		return res;
 	}

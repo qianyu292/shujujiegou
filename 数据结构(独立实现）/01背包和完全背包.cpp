@@ -4,6 +4,8 @@
 using namespace std;
 //0-1±³°ü£º
 //µÝ¹é½â·¨
+int dp(int w, vector<int>& weights, vector<int>& values, int i);
+int dp_(int w, vector<int>& weights, vector<int>& values, int i);
 vector<vector<int>>memo;
 int knapsack01(int W, vector<int>& weights, vector<int>& values)
 {
