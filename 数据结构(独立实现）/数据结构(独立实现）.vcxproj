@@ -127,6 +127,9 @@
     <ClCompile Include="danlianbiao.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="Myarraylist.cpp" />
+    <ClCompile Include="Mychaininghashmap.cpp" />
+    <ClCompile Include="mydueue.cpp" />
+    <ClCompile Include="MylinkedHashMap.cpp" />
     <ClCompile Include="nsumtarget.cpp" />
     <ClCompile Include="prim.cpp" />
     <ClCompile Include="queue.cpp" />

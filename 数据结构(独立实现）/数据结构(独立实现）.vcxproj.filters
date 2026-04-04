@@ -51,5 +51,14 @@
     <ClCompile Include="prim.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="mydueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mychaininghashmap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MylinkedHashMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
