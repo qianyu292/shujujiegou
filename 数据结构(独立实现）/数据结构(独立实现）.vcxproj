@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01背包和完全背包.cpp" />
+    <ClCompile Include="cyclearray.cpp" />
     <ClCompile Include="danlianbiao.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
     <ClCompile Include="Myarraylist.cpp" />
@@ -136,8 +137,10 @@
     <ClCompile Include="shuanglianbiao.cpp" />
     <ClCompile Include="stack.cpp" />
     <ClCompile Include="stack2.cpp" />
+    <ClCompile Include="Triemap.cpp" />
     <ClCompile Include="union-find.cpp" />
     <ClCompile Include="埃拉托色尼素数筛法.cpp" />
+    <ClCompile Include="快速排序和归并排序.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
