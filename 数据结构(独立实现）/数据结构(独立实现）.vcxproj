@@ -127,10 +127,12 @@
     <ClCompile Include="cyclearray.cpp" />
     <ClCompile Include="danlianbiao.cpp" />
     <ClCompile Include="Dijkstra.cpp" />
+    <ClCompile Include="MonotonicQueue.cpp" />
     <ClCompile Include="Myarraylist.cpp" />
     <ClCompile Include="Mychaininghashmap.cpp" />
     <ClCompile Include="mydueue.cpp" />
     <ClCompile Include="MylinkedHashMap.cpp" />
+    <ClCompile Include="Mypriorityqueue.cpp" />
     <ClCompile Include="nsumtarget.cpp" />
     <ClCompile Include="prim.cpp" />
     <ClCompile Include="queue.cpp" />
@@ -141,6 +143,7 @@
     <ClCompile Include="union-find.cpp" />
     <ClCompile Include="埃拉托色尼素数筛法.cpp" />
     <ClCompile Include="快速排序和归并排序.cpp" />
+    <ClCompile Include="用栈递归模拟遍历二叉树.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

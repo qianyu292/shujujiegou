@@ -69,5 +69,14 @@
     <ClCompile Include="快速排序和归并排序.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="MonotonicQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Mypriorityqueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="用栈递归模拟遍历二叉树.cpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
