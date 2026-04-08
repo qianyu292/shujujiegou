@@ -78,5 +78,20 @@
     <ClCompile Include="用栈递归模拟遍历二叉树.cpp">
       <Filter>头文件</Filter>
     </ClCompile>
+    <ClCompile Include="weightedgraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AssignSegmenttree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Segmenttree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AllinoneSegmenttree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
